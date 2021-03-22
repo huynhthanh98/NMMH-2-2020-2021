@@ -1,0 +1,2 @@
+# NMMH-2-2020-2021
+Đây là repo môn NMMH KHTN Kì 2 2020-2021
